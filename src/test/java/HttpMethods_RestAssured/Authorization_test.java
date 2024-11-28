@@ -63,7 +63,7 @@ public class Authorization_test {
 	 void authorization_bearerToken()
 	 {
 		 
-		String bearertoken= "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";
+		String bearertoken = "fake_token";
 		
 		given()
 
